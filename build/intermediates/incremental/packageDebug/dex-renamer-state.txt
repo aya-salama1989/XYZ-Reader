@@ -1,0 +1,7 @@
+#Thu Jun 15 00:17:08 EET 2017
+base.0=D\:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_93370f3a67ebc432d638fba8864e0c2873d6b45e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_563457306831d283343fe1d10ada970edc8248fa\\classes.dex
+base.1=D\:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_563457306831d283343fe1d10ada970edc8248fa
+file.0=D\:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_93370f3a67ebc432d638fba8864e0c2873d6b45e\\classes.dex

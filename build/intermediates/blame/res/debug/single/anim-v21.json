@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\559c84de4da5726fc03ba487f54aa5049df8b847\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\fab_state_list_anim.xml",
+        "source": "D:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\src\\main\\res\\anim-v21\\fab_state_list_anim.xml"
+    },
+    {
+        "merged": "D:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\b929c78781872799f50d06afdcbf8450862e1078\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\559c84de4da5726fc03ba487f54aa5049df8b847\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
