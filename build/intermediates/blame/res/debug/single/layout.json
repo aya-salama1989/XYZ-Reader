@@ -76,12 +76,12 @@
         "source": "C:\\Users\\Dell\\.android\\build-cache\\e51dc71bec6f4a8e2c8aef353b586d182dfe3827\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "D:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Users\\Dell\\.android\\build-cache\\e51dc71bec6f4a8e2c8aef353b586d182dfe3827\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "D:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "C:\\Users\\Dell\\.android\\build-cache\\559c84de4da5726fc03ba487f54aa5049df8b847\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Dell\\.android\\build-cache\\e51dc71bec6f4a8e2c8aef353b586d182dfe3827\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "D:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_article.xml",

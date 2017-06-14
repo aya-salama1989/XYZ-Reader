@@ -6,23 +6,26 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1497478624035"
+    timestamp="1497480239707"
     token="8956124548709450287"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="426" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="40" />
     <task
         name="verifier"
-        duration="0" />
+        duration="4" />
 
+    <artifact
+        location="D:\NanoDegree\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
     <artifact
         location="D:\NanoDegree\xyz-reader-starter-code-master\XYZReader\build\outputs\apk\XYZReader-debug.apk"
         type="SPLIT_MAIN" />
@@ -70,16 +73,19 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1497478521711"
+        timestamp="1497480165928"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\NanoDegree\xyz-reader-starter-code-master\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1497480239707"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\NanoDegree\xyz-reader-starter-code-master\XYZReader\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1497478624035"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\NanoDegree\xyz-reader-starter-code-master\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="SPLIT_MAIN" />

@@ -1,4 +1,4 @@
-#Thu Jun 15 00:17:08 EET 2017
+#Thu Jun 15 00:41:34 EET 2017
 base.0=D\:\\NanoDegree\\xyz-reader-starter-code-master\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_93370f3a67ebc432d638fba8864e0c2873d6b45e
 renamed.1=classes.dex
 renamed.0=classes2.dex
