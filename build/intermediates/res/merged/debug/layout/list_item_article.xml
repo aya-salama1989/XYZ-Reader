@@ -16,7 +16,7 @@
         android:orientation="vertical">
 
         <!--suppress AndroidLintContentDescription -->
-        <ImageView
+        <com.example.xyzreader.ui.DynamicHeightNetworkImageView
             android:scaleType="centerCrop"
             android:id="@+id/thumbnail"
             android:layout_width="match_parent"
